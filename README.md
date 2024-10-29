@@ -16,8 +16,12 @@ Utilized cust hooks to Improve Perfomance e.g using the useMemo hook to handle t
 
 ## Screenshots
 
-![App Screenshot](https://github.com/frank1003A/lendsqr-fe-test/blob/b84ba353f3007b11806fe8a4191a559ae232b3e9/src/assets/demo/frank-chinonso-ezene-lendsqr-fe-test-delta.vercel.app_users.png)
-
+# LOGIN PAGE
+![App Screenshot](/src//assets/demo/login&sign-up.png)
+# DASHBOARD
+![App Screenshot](/src//assets/demo/Dashboard.png)
+# SEARCH FEAUTURE
+![App Screenshot](/src//assets/demo/Search%20Feauture.png)
 
 ## Appendix
 

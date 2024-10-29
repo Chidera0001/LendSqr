@@ -8,7 +8,7 @@ import {
   FaSignOutAlt,
 } from "react-icons/fa";
 import { AiFillSetting } from "react-icons/ai";
-import avatar from "assets/png/avatar.png";
+import avatar from "assets/png/Dera.jpg";
 import { Link } from "react-router-dom";
 import useOnClickOutside from "hooks/useOnClickOutside";
 
@@ -49,7 +49,7 @@ const UserSelect = () => {
           <img src={avatar} alt="profile_photo_badge" />
         </span>
         <span className="toggler" ref={popupRef} onClick={() => setOpen(!open)}>
-          <p>Adedeji</p>
+          <p>Dera</p>
           <FaCaretDown />
         </span>
       </div>
@@ -58,7 +58,7 @@ const UserSelect = () => {
         style={style as React.CSSProperties}
       >
         <h3>
-          Adedeji John Doe
+          Chidera Anele
           <br />
           <span>Admin Lendsqr</span>
         </h3>
